@@ -2,7 +2,7 @@
 
 This is a Java version for 3D B-spline registration on medical images(mha).
 
-_Note: the code is for resarch use only, performance is not optimized_ 
+__Note: the code is for resarch use only, performance is not optimized__
 
 It's a translated and simplified version from C++ project written by Dr. James A. Shackleford from Drexel University. 
 
@@ -14,8 +14,8 @@ A more comprehensive implementation of 3D B-spline registration in C++ please fi
 
 Reference: 
 
-####Shackleford JA, Kandasamy N, Sharp GC. On developing B-spline registration algorithms for multi-core processors. Physics in medicine and biology. 2010 Oct 12;55(21):6329.####
+#### Shackleford JA, Kandasamy N, Sharp GC. On developing B-spline registration algorithms for multi-core processors. Physics in medicine and biology. 2010 Oct 12;55(21):6329.
 
-####Copyright reserved.####
+#### Copyright reserved.
 
 
