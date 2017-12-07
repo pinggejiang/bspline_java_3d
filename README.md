@@ -14,8 +14,8 @@ A more comprehensive implementation of 3D B-spline registration in C++ please fi
 
 Reference: 
 
-####Shackleford JA, Kandasamy N, Sharp GC. On developing B-spline registration algorithms for multi-core processors. Physics in medicine and biology. 2010 Oct 12;55(21):6329.
+####Shackleford JA, Kandasamy N, Sharp GC. On developing B-spline registration algorithms for multi-core processors. Physics in medicine and biology. 2010 Oct 12;55(21):6329.####
 
-####Copyright reserved. 
+####Copyright reserved.####
 
 
